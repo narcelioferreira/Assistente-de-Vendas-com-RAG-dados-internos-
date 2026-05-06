@@ -3,8 +3,8 @@ Módulo de ingestão de dados: carrega CSV e TXT, faz chunking.
 """
 import os
 import pandas as pd
-from langchain.schema import Document
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_core.documents import Document
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 
 def load_csv_as_documents(filepath: str, source_label: str) -> list[Document]:
