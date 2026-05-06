@@ -81,7 +81,7 @@ def build_rag_chain(_retriever):
 @st.cache_resource(show_spinner=False)
 def initialize_rag_system():
     """Inicializa todo o pipeline RAG (cached — roda só uma vez por sessão)."""
-    data_dir = "data"
+    data_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
     documents = load_all_documents(data_dir)
     vector_store = build_vector_store(documents)
     retriever = get_retriever(vector_store, k=5)
