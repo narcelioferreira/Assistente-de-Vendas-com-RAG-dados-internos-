@@ -8,7 +8,7 @@ Assistente de vendas inteligente que usa **Retrieval-Augmented Generation (RAG)*
 
 ## 🖥️ Demo ao vivo
 
-[**→ Acesse o app aqui**](https://seu-app.streamlit.app) *(substitua após o deploy)*
+[**→ Acesse o app aqui**](https://ecxfafgmkmt87fod3uod6u.streamlit.app/)
 
 ---
 
