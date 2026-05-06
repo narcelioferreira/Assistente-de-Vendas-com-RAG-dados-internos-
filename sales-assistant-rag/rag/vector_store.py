@@ -5,7 +5,7 @@ import os
 import streamlit as st
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
-from langchain.schema import Document
+from langchain_core.documents import Document
 
 
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
