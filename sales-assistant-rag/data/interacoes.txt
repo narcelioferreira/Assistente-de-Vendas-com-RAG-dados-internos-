@@ -1,0 +1,162 @@
+HISTÓRICO DE INTERAÇÕES E ANOTAÇÕES DE VENDAS
+============================================
+
+=== CLIENTE: Construtora Horizonte (C003) | Vendedor: Lucas Martins ===
+
+[2024-06-15 - PRIMEIRO CONTATO]
+Tipo: Ligação Fria
+Contato: Marcelo Santos (Gerente de TI)
+Duração: 25 min
+Resumo: Marcelo reclamou do sistema atual (ERP antigo sem mobilidade). Tem dor clara: obras remotas sem acesso a dados em tempo real. Demonstrou interesse. Agendou demonstração.
+Próximo Passo: Demo em 25/06
+
+[2024-06-25 - DEMONSTRAÇÃO]
+Tipo: Reunião Online (Teams)
+Participantes: Marcelo Santos, Engenheira Camila Rocha, Diretor Financeiro João Teixeira
+Duração: 90 min
+Resumo: Demo focada em mobilidade e integração AutoCAD. Camila testou ao vivo a integração - funcionou perfeitamente. João perguntou sobre ROI. Apresentei case da Construtora MegaObras (30% redução de custo operacional).
+Feedback: Muito positivo. João pediu proposta formal.
+Próximo Passo: Enviar proposta até 30/06
+
+[2024-08-01 - FOLLOW-UP]
+Tipo: Email
+Resumo: Marcelo informou que processo foi pausado por mudança no orçamento Q3. Retomada prevista para outubro.
+Status: Em espera
+
+[2024-10-10 - RETOMADA]
+Tipo: Ligação
+Duração: 15 min
+Resumo: Orçamento 2025 aprovado. Marcelo deu luz verde para retomar. Ele está comparando com a SoftBuild (concorrente). Ponto fraco da concorrência: não tem integração nativa com AutoCAD, usam middleware de terceiro.
+Próximo Passo: Nova proposta atualizada com preços 2025
+
+[2024-11-10 - PROPOSTA ENVIADA]
+Tipo: Email + Reunião de Apresentação
+Participantes: Marcelo Santos, João Teixeira
+Resumo: Proposta de R$ 45k apresentada. João pediu desconto extra (de 15% para 20%). Expliquei que não posso aprovar sozinho mas posso oferecer 3 meses de suporte premium grátis (valor R$ 4.500). Marcelo pareceu satisfeito mas João quer pensar.
+Status: Aguardando aprovação interna deles
+Próximo Passo: Follow-up em 20/11
+
+[2024-11-20 - FOLLOW-UP]
+Tipo: WhatsApp + Ligação
+Resumo: Marcelo disse que João está "quase convencido". Novo decisor surgiu: a diretora de Operações Sra. Renata Campos quer participar da próxima reunião. Agendado para 05/12.
+ALERTA: Mapear Renata Campos antes da reunião. Pesquisar perfil no LinkedIn.
+
+---
+
+=== CLIENTE: Grupo Meridian (C002) | Vendedor: Ana Beatriz Souza ===
+
+[2022-07-05 - ONBOARDING]
+Tipo: Kickoff Presencial (Rio de Janeiro)
+Resumo: Cliente iniciou com pacote básico. 15 usuários. Time animado. Fernanda Costa (Diretora de TI) é o ponto focal. Muito organizada e técnica.
+
+[2023-03-15 - EXPANSÃO]
+Tipo: Reunião QBR (Quarterly Business Review)
+Resumo: Resultados excelentes: 40% redução no tempo de processamento de pedidos. Fernanda pediu expansão para mais 20 usuários e módulo de BI. Aprovado internamente.
+Valor: Upsell de R$ 8.000/mês adicional
+
+[2024-02-20 - REVISÃO ANUAL]
+Tipo: Reunião Presencial
+Resumo: Grupo Meridian anuncia expansão com 3 novas lojas em 2025 (Brasília, Salvador, Recife). Vão precisar de integração com SAP S/4HANA (implementação SAP prevista para Q2/2025). Fernanda quer garantir que nossa plataforma vai suportar o crescimento.
+Oportunidade: Proposta enterprise com SAP integration
+
+[2024-10-15 - PROPOSTA ENTERPRISE]
+Tipo: Apresentação Executiva
+Participantes: Fernanda Costa, CTO Rafael Drummond, CFO Márcia Pinto
+Resumo: Apresentação do pacote enterprise. Rafael técnico e detalhista - fez muitas perguntas sobre arquitetura e segurança. CFO Márcia focada em TCO e ROI. Apresentei análise mostrando R$ 380k de economia projetada em 3 anos.
+Negociação: Fernanda pediu 25% de desconto. Máximo aprovado: 22%. Ainda em negociação.
+Próximo Passo: Reunião com CTO em 10/12 para detalhes técnicos
+
+---
+
+=== CLIENTE: Saúde Premium (C004) | Vendedor: Pedro Henrique Costa ===
+
+[2024-10-05 - LEAD INBOUND]
+Fonte: LinkedIn (post sobre gestão de clínicas)
+Resumo: Juliana Ferreira (Diretora Administrativa) me mandou mensagem no LinkedIn após ver nosso case de sucesso com a Clínica Vida Plena (C008). Dr. Paulo Mendes a indicou diretamente.
+Qualificação: Excelente. 3 clínicas, ~50 médicos, processo de agendamento 100% manual (papel!), faturamento TISS feito no Excel.
+
+[2024-10-20 - DISCOVERY CALL]
+Tipo: Videochamada
+Duração: 45 min
+Resumo: Mapeamento completo das dores:
+1. Agendamento: 2 recepcionistas dedicadas só para agendar (R$ 6.000/mês em custo)
+2. Prontuário: papel, sem backup, risco de perda
+3. Faturamento TISS: 3 dias por mês para fechar contas com planos
+4. App: pacientes reclamam de não conseguir remarcar online
+Decisores: Juliana + 3 sócios médicos (Dr. Carlos, Dra. Ana, Dr. Roberto)
+
+[2024-11-05 - DEMONSTRAÇÃO]
+Tipo: Presencial (Curitiba)
+Participantes: Juliana + Dr. Carlos (um dos sócios)
+Duração: 2h
+Resumo: Demo transformada em workshop. Dr. Carlos simulou cadastrar paciente ao vivo - ficou impressionado com facilidade. Juliana testou o módulo de TISS - disse "isso vai mudar minha vida". App do paciente foi o destaque: Dr. Carlos mostrou pro assistente dele na hora.
+Próximo Passo: Apresentar para os outros 2 sócios em 05/12
+
+NOTAS IMPORTANTES:
+- Dra. Ana é mais conservadora - vai perguntar sobre segurança dos dados (LGPD)
+- Dr. Roberto é o mais técnico - vai perguntar sobre uptime e SLA
+- Juliana já está vendida, precisa de ajuda para vender internamente
+- Preparar: certificação LGPD, histórico de uptime 99.95%, referência do Dr. Paulo
+
+---
+
+=== CLIENTE: Carlos Mendonça / Agro Futuro (C005) | Vendedor: Lucas Martins ===
+
+[2024-11-22 - REUNIÃO DE ACOMPANHAMENTO]
+Tipo: Videoconferência
+Duração: 30 min
+Resumo: Carlos muito satisfeito. NPS 9 confirmado. Tema principal: ele quer acesso à API para integrar com sistema próprio de IoT que estão desenvolvendo internamente. Nossa API está em beta mas posso oferecer acesso antecipado como cliente prioritário.
+Renovação: Março/2025. Carlos sinalizou que vai renovar com expansão (+2 módulos). Estimar upsell de R$ 12k/mês adicional.
+Indicações: Já mandou contato da Beatriz (C009) e do Ricardo (C010). Pediu que citemos o nome dele nas propostas como referência.
+
+---
+
+=== CLIENTE: Educação Conectada (C006) | CSM: Mariana Lopes ===
+
+[2024-10-30 - ALERTA DE CHURN]
+Tipo: NPS Survey + Ligação
+Resumo: NPS caiu de 8 para 4 em 60 dias. Motivos identificados:
+1. Ticket aberto há 15 dias sem solução (bug no módulo de relatórios)
+2. Mudança de decisor: João Andrade saiu, Patricia Lima assumiu sem onboarding
+3. Patricia não entende o valor da plataforma (não viveu o "antes")
+Plano de Resgate:
+- Bug será corrigido até 05/11 (confirmado pelo time de produto)
+- Agendar onboarding especial para Patricia
+- QBR emergencial com CEO deles para mostrar ROI
+
+[2024-11-08 - REUNIÃO DE RESGATE]
+Tipo: Videochamada
+Participantes: Patricia Lima, CSM Mariana, Gerente Comercial
+Resumo: Patricia mais aberta do que esperado. Bug foi corrigido - ela testou ao vivo e aprovou. Ela quer entender melhor o produto. Agendado treinamento para equipe dela (3 pessoas) para 20/11.
+Status: Risco reduzido de alto para médio.
+
+---
+
+=== PRODUTO: INFORMAÇÕES GERAIS ===
+
+MÓDULOS DISPONÍVEIS:
+- Módulo Core: gestão base, usuários, permissões (incluído em todos os planos)
+- Módulo Financeiro: contas a pagar/receber, DRE, fluxo de caixa
+- Módulo Projetos: gestão de projetos, cronograma, alocação de recursos
+- Módulo BI: dashboards avançados, relatórios customizados, exportação
+- Módulo Integração SAP: conector nativo SAP S/4HANA e SAP Business One
+- Módulo Agendamento: específico para saúde e serviços
+- Módulo Prontuário Eletrônico: específico para saúde, integração TISS
+- Módulo Fazendas/AgriSmart: específico para agronegócio
+- Módulo IoT: integração com sensores e dispositivos
+- API Completa: acesso programático a todos os dados e funcionalidades
+
+PLANOS:
+- Starter: até 10 usuários, módulos básicos - a partir de R$ 1.500/mês
+- Business: até 50 usuários, módulos avançados - a partir de R$ 5.000/mês  
+- Enterprise: usuários ilimitados, todos os módulos, SLA dedicado - a partir de R$ 15.000/mês
+
+SLA:
+- Starter/Business: 99.5% uptime, suporte em horário comercial
+- Enterprise: 99.9% uptime, suporte 24/7, gerente de conta dedicado
+
+DIFERENCIAIS COMPETITIVOS:
+- Única solução com integração nativa AutoCAD no mercado
+- Integração SAP mais rápida do setor (implementação em 2 semanas vs. 3 meses dos concorrentes)
+- App mobile nativo (iOS e Android) para pacientes e clientes finais
+- Módulo AgriSmart com IA para previsão de safra e gestão de insumos
